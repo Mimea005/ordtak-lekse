@@ -1,0 +1,21 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Mimea005.github.io/ordtak-lekse" resolutions="1x" timestamp="1509562706304">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="454130851" ref="index"/>
+    <file name="ortdaksiden.css" crc="3812096206" ref="ortdaksiden"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:ortdaksiden"/>
+    <file name="museutils.js" crc="4232573551" ref="index:ortdaksiden"/>
+    <file name="whatinput.js" crc="86476730" ref="index:ortdaksiden"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:ortdaksiden"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:ortdaksiden"/>
+    <file name="require.js" crc="4234670167" ref="index:ortdaksiden"/>
+  </folder>
+  <folder name="images">
+    <file name="u408-4.png" crc="49867481" ref="ortdaksiden"/>
+    <file name="u411-4.png" crc="281335695" ref="ortdaksiden"/>
+  </folder>
+  <file name="index.html" crc="4005949895" seo="true" mt="1509562018693" redirect="true"/>
+  <file name="ortdaksiden.html" crc="222533297" seo="true" mt="1509562639885" redirect="true"/>
+</manifest>
