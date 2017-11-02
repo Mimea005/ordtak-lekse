@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Mimea005.github.io/ordtak-lekse" resolutions="1x" timestamp="1509574624558">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Mimea005.github.io/ordtak-lekse" resolutions="1x" timestamp="1509622729152">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="409895233" ref="index"/>
-    <file name="ortdaksiden.css" crc="4279335" ref="ortdaksiden"/>
+    <file name="index.css" crc="440348459" ref="index"/>
+    <file name="ortdaksiden.css" crc="4276096747" ref="ortdaksiden"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:ortdaksiden"/>
@@ -11,20 +11,8 @@
     <file name="museconfig.js" crc="3849126041" ref="index:ortdaksiden"/>
     <file name="jquery.watch.js" crc="3844535323" ref="index:ortdaksiden"/>
     <file name="require.js" crc="4234670167" ref="index:ortdaksiden"/>
-    <file name="webpro.js" crc="3770351119" ref="index"/>
-    <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
-    <file name="touchswipe.js" crc="3912873526" ref="index"/>
   </folder>
-  <folder name="images">
-    <file name="trees.jpg" crc="4071309946" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="u1238-4.png" crc="367910061" ref="ortdaksiden"/>
-    <file name="u1241-4.png" crc="187291428" ref="ortdaksiden"/>
-  </folder>
-  <file name="index.html" crc="210566780" seo="true" mt="1509574542983" redirect="true"/>
-  <file name="ortdaksiden.html" crc="163764866" seo="true" mt="1509574591147" redirect="true"/>
+  <folder name="images"/>
+  <file name="index.html" crc="123765564" seo="true" mt="1509622691278" redirect="true"/>
+  <file name="ortdaksiden.html" crc="4097986114" seo="true" mt="1509622509940" redirect="true"/>
 </manifest>
