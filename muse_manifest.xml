@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Mimea005.github.io/ordtak-lekse" resolutions="1x" timestamp="1509662328946">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Mimea005.github.io/ordtak-lekse" resolutions="1x" timestamp="1509711611566">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="353966029" ref="index"/>
-    <file name="ortdaksiden.css" crc="4279335" ref="ortdaksiden"/>
+    <file name="index.css" crc="3816378936" ref="index"/>
+    <file name="ortdaksiden.css" crc="164377033" ref="ortdaksiden"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:ortdaksiden"/>
@@ -22,9 +22,9 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="u1238-4.png" crc="367910061" ref="ortdaksiden"/>
-    <file name="u1241-4.png" crc="187291428" ref="ortdaksiden"/>
+    <file name="u1238-4.png" crc="395136843" ref="ortdaksiden"/>
+    <file name="u1241-16.png" crc="4082650013" ref="ortdaksiden"/>
   </folder>
-  <file name="index.html" crc="287338266" seo="true" mt="1509661523913" redirect="true"/>
-  <file name="ortdaksiden.html" crc="163764866" seo="true" mt="1509661514593" redirect="true"/>
+  <file name="index.html" crc="3782352058" seo="true" mt="1509711585772" redirect="true"/>
+  <file name="ortdaksiden.html" crc="3787187401" seo="true" mt="1509711585773" redirect="true"/>
 </manifest>
